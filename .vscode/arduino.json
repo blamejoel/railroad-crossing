@@ -1,0 +1,6 @@
+{
+    "sketch": "XMAS.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "arduino:arduinoisp"
+}
